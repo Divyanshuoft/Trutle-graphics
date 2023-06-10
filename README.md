@@ -11,13 +11,13 @@ In our implementation, we can define a command structure that holds the necessar
 ## Standard Functionality of Linked List:
 By leveraging the power of data structures, we can implement the standard functionality of a linked list for managing the sequence of turtle commands. These functionalities include:
 
-### Insertion: We can define functions to insert new commands at the beginning, end, or any specific position within the linked list. This enables users to add commands dynamically and modify the sequence as desired.
+#### Insertion: We can define functions to insert new commands at the beginning, end, or any specific position within the linked list. This enables users to add commands dynamically and modify the sequence as desired.
 
 #### Deletion: Similarly, we can implement deletion functions to remove commands from the linked list. This allows for easy editing and refining of the turtle's movement instructions.
 
 #### Traversal: We can traverse the linked list to access each command in sequence. This traversal can be used to execute the commands or perform operations such as printing the list of instructions.
 
-### Searching and Modifying: We can provide functions to search for specific commands within the linked list and modify their parameters or types. This functionality enhances the flexibility and adaptability of the turtle graphics system.
+#### Searching and Modifying: We can provide functions to search for specific commands within the linked list and modify their parameters or types. This functionality enhances the flexibility and adaptability of the turtle graphics system.
 
 ## Algorithmic Execution of Turtle Graphics:
 Once we have the linked list representation of turtle commands, we can employ algorithms to execute these instructions and generate visual output. This involves interpreting each command and translating it into appropriate turtle movements on the graphics screen.
