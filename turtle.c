@@ -1,5 +1,4 @@
 /**
- * CSC A48 - Intro to Computer Science II, Summer 2020
  * 
  * This is the program file where you will implement your solution for
  * assignment 1. Please make sure you read through this file carefully
