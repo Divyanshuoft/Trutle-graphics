@@ -11,7 +11,7 @@
  * check that your solution is *correct*, not only that it provides 
  * functionality.
  * 
- * Developed by Mustafa Quraish for CSCA48
+ * Developed by Divyansh Kachchhava for CSCA48
  */
 #include "imgUtils.c"
 
