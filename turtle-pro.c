@@ -11,6 +11,7 @@
  * Be sure to test your work thoroughly, our testing will be extensive and will
  * check that your solution is *correct*, not only that it provides 
  * functionality.
+ * Made and Developed by Divyansh Kachchhava
  * 
  */
 #include "imgUtils.c"
