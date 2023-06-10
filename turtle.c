@@ -12,7 +12,6 @@
  * functionality.
  * 
  * Developed by Mustafa Quraish for CSCA48
- * (c) Mustafa Quraish 2020
  */
 #include "imgUtils.c"
 
